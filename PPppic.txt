@@ -301,7 +301,7 @@ Pro:
 -Baby Long Legs:
 
 Primary fire: Jumpscare
-Secondary fire (hold it): Climb vertical quickly
+Secondary fire (hold it): Climb vertical
 Reload: Cry (what did you expect from a baby?)
 Flashlight: One last game chase music
 
