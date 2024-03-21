@@ -1,0 +1,324 @@
+CHAPTER 1 -------A TIGHT SQUEEZE-----------
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Huggy Wuggy:
+
+Primary fire: Jumpscare
+Reload: "Oh hey Huggy" music (good for corner surprises)
+Flashlight: "No more hugs" chase music
+
+Pro:
+-Almost same speed when crouch walking
+-Fast
+-Good jump
+////////////////////////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Poppy:
+
+Reload: Poppy's lullaby audio
+Flashlight: Poppy's music box audio
+
+Pro:
+-Fast
+-Hard to see because she's small
+
+Cons:
+-Can't attack
+///////////////////////////////////////
+
+
+CHAPTER 2 ----------FLY IN A WEB------------
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Mommy Long Legs:
+
+Primary fire: Jumpscare
+Secondary fire (hold it): Climb vertical quickly
+Reload: Laughs/moans audios
+Flashlight: One last game/arachnophobia chase music
+
+Pro:
+-Kinda fast
+-Can climb vertical quickly
+-No fall damage
+/////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Bunzo Bunny:
+
+Primary fire: Jumpscare
+Reload: Plates audio
+
+
+Pro:
+-Fast
+
+Cons:
+-You can hear him from a distance because he really does smash those plates
+///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Kissy Missy:
+
+Pro:
+-Fast
+
+Cons:
+-Can't attack
+///////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Mini Huggys:
+
+Primary fire: Jumpscare
+Reload: Pissed off audio
+
+Pro:
+-4 colors
+-Small allowing for sneak-ups
+-Almost same speed when crouch walking
+//////////////////////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Poppy:
+
+Reload: Poppy's lullaby audio
+Flashlight: Poppy's music box audio
+
+Pro:
+-Fast
+-Hard to see because she's small
+
+Cons:
+-Can't attack
+///////////////////////////////////////
+
+
+CHAPTER 3 -------------DEEP SLEEP---------------
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+CatNap:
+
+Primary fire: Jumpscare
+Secondary fire: Climb vertical
+Reload: Cat purrings audio
+Flashlight: Chase music
+
+
+Pro:
+-Fastest
+-Can climb vertical
+-Good jump
+-No fall damage
+-Creepy
+
+Cons:
+-Takes damage from water
+//////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Nightmare CatNap:
+
+Primary fire: Jumpscare
+Secondary fire: Climb vertical
+Reload: Cat purrings audio
+Flashlight: Chase music
+
+
+Pro:
+-Can climb vertical
+-Good jump
+-No fall damage
+-Scary
+
+Cons:
+-Slower than normal CatNap
+-Takes damage from water
+//////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+DogDay:
+
+Primary fire: Jumpscare
+Reload: Choke noises audio
+Flashlight: Chase music
+
+Pro:
+-Same speed as crouch walking
+-Not tall allowing for sneak-ups
+
+Cons:
+-Not the best jumping
+//////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Hallucination Huggy:
+
+Primary fire: Jumpscare
+Secondary fire: no-clip
+Flashlight: chase music
+
+Pro:
+-Almost same speed when crouch walking
+-Can no-clip (op ability)
+-Scary
+//////////////////////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Miss Delight:
+
+Primary fire: Jumpscare
+Reload: Effort screams/moans
+Flashlight: Chase music
+
+Pro:
+-If its sudden, the jumpscare will get you an heart attack
+-Creepy
+
+Cons:
+-Very slowed down when looked upon
+/////////////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Smiling Critters:
+
+Primary fire: Jumpscare
+Reload: Breathing noises
+Flashlight: Hissing noises
+
+Pro:
+-Very small, very good for sneak-up attacks
+-Currently does not get stopped from flashlight because its buggy
+-Same speed when crouch walking
+
+Cons:
+-Only 2 critters (CatNap and Bobby) because the bodygroups aren't working
+-Kinda slow
+-CatNap takes damage from water (if not evaded quickly it will be deadly in a short amount of time)
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Kissy Missy:
+
+Pro:
+-Fast
+
+Cons:
+-Can't attack
+//////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Poppy:
+
+Reload: Poppy's lullaby audio
+Flashlight: Poppy's music box audio
+
+Pro:
+-Fast
+-Hard to see because she's small
+
+Cons:
+-Can't attack
+///////////////////////////////////////
+
+------------EXTRAS------------------
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+Boxy Boo:
+
+Primary fire: Jumpscare
+Reload: Music box
+Flashlight: Chase music
+
+Pro:
+-Highest jump
+-If its sudden, the jumpscare will get you an heart attack
+
+Cons:
+-Takes damage from water
+-Almost slow
+//////////////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Huggy Wuggy (Project Playtime):
+
+Primary fire: Jumpscare
+Reload: "Oh hey Huggy" music (good for corner surprises)
+Flashlight: "No more hugs" chase music
+
+Pro:
+-Almost same speed when crouch walking
+-Fast
+-Good jump
+/////////////////////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Mommy Long Legs (Project Playtime):
+
+Primary fire: Jumpscare
+Secondary fire (hold it): Climb vertical quickly
+Reload: Laughs/moans audios
+Flashlight: One last game/arachnophobia chase music
+
+Pro:
+-Kinda fast
+-Can climb vertical quickly
+-No fall damage
+////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Daddy Long Legs:
+
+Primary fire: Jumpscare
+Secondary fire (hold it): Climb vertical quickly
+Flashlight: One last game chase music
+
+Pro:
+-Epic backflip kick
+-Kinda fast
+-Can climb vertical quickly
+-No fall damage
+//////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Giga Daddy Long Legs:
+
+Primary fire: Jumpscare
+Secondary fire (hold it): Climb vertical
+Reload: Flex
+Flashlight: One last game chase music
+
+Pro:
+-Gigachad
+-Kinda fast
+-Can climb vertical
+-No fall damage
+-Flexes
+///////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Baby Long Legs:
+
+Primary fire: Jumpscare
+Secondary fire (hold it): Climb vertical quickly
+Reload: Cry (what did you expect from a baby?)
+Flashlight: One last game chase music
+
+Pro:
+-Can climb vertical
+-No fall damage
+
+Cons:
+-Slower than it's parents
+//////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Daisy:
+
+Primary fire: Jumpscare
+Reload: Breath audios
+
+Pro:
+-Slow but faster than Boxy
+-Jumpscare = 50% heart attack
