@@ -101,7 +101,7 @@ CHAPTER 3 -------------DEEP SLEEP---------------
 CatNap:
 
 Primary fire: Jumpscare
-Secondary fire: Climb vertical
+Secondary fire(hold it): Climb vertical
 Reload: Cat purrings audio
 Flashlight: Chase music
 
@@ -121,7 +121,7 @@ Cons:
 Nightmare CatNap:
 
 Primary fire: Jumpscare
-Secondary fire: Climb vertical
+Secondary fire(hold it): Climb vertical
 Reload: Cat purrings audio
 Flashlight: Chase music
 
