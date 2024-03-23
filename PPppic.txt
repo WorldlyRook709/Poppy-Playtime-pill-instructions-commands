@@ -295,6 +295,9 @@ Pro:
 -Can climb vertical
 -No fall damage
 -Flexes
+
+Cons:
+-Can't crawl
 ///////////////////////////////////////////
 
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
@@ -322,3 +325,14 @@ Reload: Breath audios
 Pro:
 -Slow but faster than Boxy
 -Jumpscare = 50% heart attack
+////////////////////////////////////////////////////////
+
+\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
+-Bubba Bubbaphant
+Primary fire: Jumpscare
+Reload: Elephant sounds audio
+Flashlight: Chase music
+
+Cons:
+-Can't crawl
+-Kinda slow
