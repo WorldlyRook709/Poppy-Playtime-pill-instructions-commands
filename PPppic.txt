@@ -333,6 +333,9 @@ Primary fire: Jumpscare
 Reload: Elephant sounds audio
 Flashlight: Chase music
 
+Pro:
+-Tankiest
+
 Cons:
 -Can't crawl
 -Kinda slow
