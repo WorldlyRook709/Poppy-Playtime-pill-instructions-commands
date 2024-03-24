@@ -16,8 +16,8 @@ Pro:
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 -Poppy:
 
-Reload: Poppy's lullaby audio
-Flashlight: Poppy's music box audio
+Reload: Poppy's lullaby
+Flashlight: Poppy's music box
 
 Pro:
 -Fast
@@ -35,7 +35,7 @@ CHAPTER 2 ----------FLY IN A WEB------------
 
 Primary fire: Jumpscare
 Secondary fire (hold it): Climb vertical quickly
-Reload: Laughs/moans audios
+Reload: Laughs/moans
 Flashlight: One last game/arachnophobia chase music
 
 Pro:
@@ -48,7 +48,7 @@ Pro:
 -Bunzo Bunny:
 
 Primary fire: Jumpscare
-Reload: Plates audio
+Reload: Plates
 
 
 Pro:
@@ -72,7 +72,7 @@ Cons:
 -Mini Huggys:
 
 Primary fire: Jumpscare
-Reload: Pissed off audio
+Reload: Pissed off
 
 Pro:
 -4 colors
@@ -83,8 +83,8 @@ Pro:
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 -Poppy:
 
-Reload: Poppy's lullaby audio
-Flashlight: Poppy's music box audio
+Reload: Poppy's lullaby
+Flashlight: Poppy's music box
 
 Pro:
 -Fast
@@ -102,7 +102,7 @@ CatNap:
 
 Primary fire: Jumpscare
 Secondary fire(hold it): Climb vertical
-Reload: Cat purrings audio
+Reload: Cat purrings
 Flashlight: Chase music
 
 
@@ -122,7 +122,7 @@ Nightmare CatNap:
 
 Primary fire: Jumpscare
 Secondary fire(hold it): Climb vertical
-Reload: Cat purrings audio
+Reload: Cat purrings
 Flashlight: Chase music
 
 
@@ -141,7 +141,7 @@ Cons:
 DogDay:
 
 Primary fire: Jumpscare
-Reload: Choke noises audio
+Reload: Choke noises
 Flashlight: Chase music
 
 Pro:
@@ -211,8 +211,8 @@ Cons:
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 -Poppy:
 
-Reload: Poppy's lullaby audio
-Flashlight: Poppy's music box audio
+Reload: Poppy's lullaby
+Flashlight: Poppy's music box
 
 Pro:
 -Fast
@@ -258,7 +258,7 @@ Pro:
 
 Primary fire: Jumpscare
 Secondary fire (hold it): Climb vertical quickly
-Reload: Laughs/moans audios
+Reload: Laughs/moans
 Flashlight: One last game/arachnophobia chase music
 
 Pro:
@@ -320,7 +320,7 @@ Cons:
 -Daisy:
 
 Primary fire: Jumpscare
-Reload: Breath audios
+Reload: Breaths
 
 Pro:
 -Slow but faster than Boxy
@@ -330,7 +330,7 @@ Pro:
 \\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\
 -Bubba Bubbaphant
 Primary fire: Jumpscare
-Reload: Elephant sounds audio
+Reload: Elephant sounds
 Flashlight: Chase music
 
 Pro:
